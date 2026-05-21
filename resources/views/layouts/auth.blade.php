@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>@yield('title') - Codeflix</title>
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
-    <link rel="stylesheet" href="{{ asset('assets/css/fontawesome-free/all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/fontawesome-free-6.6.0-web/css/all.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/login.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/fontawesome-free-6.6.0-web/css/all.min.css') }}">
 </head>
